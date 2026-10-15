@@ -1,1 +1,74 @@
+body {
+    margin: 0;
+}
 
+.headpicture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url("file:///C:/Users/t2011/Desktop/图片/天气之子/R-C (1).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 100px auto 0;
+    box-shadow: 10px 10px 10px black;
+
+}
+
+
+.name {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+}
+
+.headbox {
+    background-color: #292D32;
+    height: 200px;
+    display: flow-root;
+    
+}
+.search{
+    background-color: #E7E9E8;
+    height: 80px;
+    
+}
+h1{
+     color: #F08A35;
+     text-align: center;
+     font-size: 70px;
+}
+
+.welcome{
+    margin: 15px 0 20px;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+}
+.intro1{
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: left;
+}
+.intro2{
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: 20px;
+    line-height: 1.8;
+    text-align: left;
+}
+.intro2 span {
+    color: #B89B5E;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+h2{
+    
+}
